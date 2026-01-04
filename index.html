@@ -27,7 +27,7 @@
 
 <body>
     <header>
-        <h1>Weather App</h1>
+        <h1>⛅ Weather App ⛅</h1>
         <p>Get real-time weather updates for any city</p>
     </header>
 
@@ -35,19 +35,25 @@
         <section>
             <h2> 🌦️ Search Weather 🌦️</h2>
 
-            <form class="search-form">
-                <input type="text" placeholder="Enter city or country..." aria-label="Search city or country"
+            <form class="search-form" onsubmit="getWeather(event)">
+                <input type="text" placeholder="Enter city or country..." aria-label="Search city or country" id="cityInput"
                     required />
-                <button type="submit">Search</button>
+                <button type="submit" onclick="getWeather()">Get Weather</button>
             </form>
 
             <p class="hint">Example: London, India, New York</p>
         </section>
+         
+        <div class="info">
 
+            <div id="city"></div>
+            <div id="temp"></div>
+            <div id="weather"></div>
+        </div>
     </main>
 
     <footer>
-        <p>&copy; 2026 Ravi Kumar. All rights reserved.</p>
+        <p>&copy; 2026 Purnendra Kumar. All rights reserved.</p>
     </footer>
     <script src="script.js"></script>
 </body>
