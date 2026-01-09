@@ -34,13 +34,11 @@ weather-app/
 ├── index.html
 ├── style.css
 ├── script.js
-├── assets/
-│   └── icons/
 └── README.md
 
 ```
 🔧 How to Run the Project
-   1. git clone https://github.com/your-username/weather-app.git
+   1. git clone https://github.com/CodeWithPurnendra/Wheather-app.git
       
    2. Navigate to the project folder:
       cd weather-app
