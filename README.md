@@ -28,7 +28,6 @@ This app allows users to check real-time weather information for any city with a
 
 ## 📂 Project Structure
 
-```text
 weather-app/
 │
 ├── index.html
@@ -36,7 +35,6 @@ weather-app/
 ├── script.js
 └── README.md
 
-```
 🔧 How to Run the Project
 ```
    1. git clone https://github.com/CodeWithPurnendra/Wheather-app.git
@@ -44,8 +42,8 @@ weather-app/
    2. Navigate to the project folder:
       cd weather-app
   3. Open index.html in your browser.
-     
-```
+
+  ```   
 🔮 Future Improvements
 
 📅 7-day weather forecast
