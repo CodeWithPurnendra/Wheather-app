@@ -3,7 +3,7 @@
 A simple, modern, and responsive **Weather Application** built using **HTML, CSS, and JavaScript**.  
 This app allows users to check real-time weather information for any city with a clean and user-friendly interface.
 
----
+----
 
 ## 🚀 Features
 
