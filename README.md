@@ -36,14 +36,17 @@ weather-app/
 └── README.md
 
 🔧 How to Run the Project
-```
-   1. git clone https://github.com/CodeWithPurnendra/Wheather-app.git
-      
+    ```
+    git clone https://github.com/CodeWithPurnendra/Wheather-app.git
+    ```
+    ---
    2. Navigate to the project folder:
+      ```
       cd weather-app
+      ```
+      ---
   3. Open index.html in your browser.
-
-  ```   
+      ---
 🔮 Future Improvements
 
 📅 7-day weather forecast
